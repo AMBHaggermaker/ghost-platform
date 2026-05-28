@@ -1,4 +1,8 @@
 node_modules/
 .env
+ghost.env
 data/logs/
 data/themes/
+data/data/
+data/images/size/
+data/public/
